@@ -1,7 +1,7 @@
 ---
 template: post
 title: Karukera Shaolin Kung Fu
-slug: encoding
+slug: /posts/karukera-shaolin-kung-fu/
 draft: false
 date: 2019-03-08T16:41:23.132Z
 description: >-
