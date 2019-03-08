@@ -1,7 +1,7 @@
 ---
 template: page
 title: Kung Fu
-slug: encoded
+slug: /pages/kung-fu/
 draft: false
 ---
 L’art du Kung Fu est à plusieurs étages. L’intérêt de la pratique est de les gravir un à un avec les difficultés liées à une ascension.
