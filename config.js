@@ -1,9 +1,10 @@
-'use strict';
+'use strict'
 
 module.exports = {
   url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Actualités - Karukera Shaolin Kung Fu',
+  subtitle:
+    'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -23,9 +24,10 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Karukera Shaolin Kung Fu',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio:
+      'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
     contacts: {
       email: '#',
       telegram: '#',
@@ -35,4 +37,4 @@ module.exports = {
       vkontakte: '#'
     }
   }
-};
+}
