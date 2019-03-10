@@ -1,6 +1,8 @@
 ---
-title: "Contact me"
-template: "page"
+template: page
+title: Nous contacter
+slug: pages/nous-contacter
+draft: true
 ---
 
 Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.
