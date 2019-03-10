@@ -2,7 +2,7 @@
 template: post
 title: Présentation de notre école
 slug: posts/presentation-de-notre-ecole
-draft: true
+draft: false
 date: 2019-03-10T17:14:59.372Z
 description: >-
   Notre pratique s'inscrit à travers l'étude de techniques martiales, où chaque
