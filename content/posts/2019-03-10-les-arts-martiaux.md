@@ -2,7 +2,7 @@
 template: post
 title: Les Arts Martiaux
 slug: posts/les-arts-martiaux
-draft: true
+draft: false
 date: 2019-03-10T16:18:27.171Z
 description: >-
   Bienvenue sur le site web de l'école Karukéra Shaolin Kung Fu. Vous y
