@@ -10,7 +10,7 @@ description: >-
   notre style ; celui de l'homme aux sourcils blancs : le Pak Mei (Bach Mi).
 category: Arts Martiaux
 tags:
-  - ''
+  - Encyclopédie
 ---
 Notre école se place dans une démarche résolument traditionnelle, notre volonté est donc de créer une école fondée sur les éléments philosophiques fondamentaux des arts martiaux :
 
