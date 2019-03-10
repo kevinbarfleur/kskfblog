@@ -1,7 +1,7 @@
 ---
 template: page
 title: À propos
-slug: pages/a-propos
+slug: a-propos
 draft: false
 ---
 
