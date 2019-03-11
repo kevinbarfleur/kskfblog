@@ -1,7 +1,7 @@
 ---
 template: page
 title: Nous contacter
-slug: /pages/nous-contacter
+slug: pages/nous-contacter
 draft: false
 ---
 
