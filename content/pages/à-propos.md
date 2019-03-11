@@ -2,7 +2,7 @@
 template: page
 title: À Propos
 slug: a-propos
-draft: true
+draft: false
 ---
 Notre pratique s'inscrit à travers l'étude de techniques martiales, où chaque élève devient un expérimentateur, un chercheur qui veut découvrir son être profond.
 
