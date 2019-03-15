@@ -4,29 +4,39 @@ title: Nous Contacter
 slug: pages/contact
 draft: false
 ---
+Les entraînements se déroulent au foyer culturel de Fond BUDAN à **Baie-Mahault** selon le planning suivant :{' '}
 
-Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.
+<div>
 
-Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.
+<div>
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-4.jpg)
+**6 à 10 ans**
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+Mercredi et Samedi : 17H30 - 18H30
 
-## Header Level 2
+</div>
 
-Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
+<div>
 
-+ **Lorem ipsum** dolor sit amet, consectetuer adipiscing elit.
-+ Aliquam tincidunt mauris eu risus.
-+ Vestibulum auctor dapibus neque.
+**11 à 15 ans**
 
-### Header Level 3
+Mercredi et Samedi : 18H30 - 20H00
 
-Phasellus ultrices nulla quis nibh. Quisque a lectus. Donec **consectetuer** ligula vulputate sem tristique cursus. Nam nulla quam, gravida non, commodo a, sodales sit amet, nisi.
+</div>
 
-Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.
+<div>
 
-#### Header Level 4
+**Plus de 15 ans**
 
-Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est.
+Mardi et Vendredi : 18H30 - 20H00
+
+</div>
+
+</div>
+
+_Vous pouvez venir ASSITER aux cours et aussi participer à un COURS D'ESSAIS._
+
+Vous pouvez nous contacter par{' '} **téléphone** ou par{' '} **mail** :
+
+[<button>0690.50.70.28</button>](tel:+590690507028)  
+[<button>kskf971@yahoo.fr</button>](mailto:kskf971@yahoo.fr)
