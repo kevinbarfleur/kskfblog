@@ -2,7 +2,7 @@
 template: page
 title: Guide Markdown
 slug: pages/guide-markdown
-draft: true
+draft: false
 ---
 ![preview markdown](/media/28495106-30b3b15e-6f09-11e7-8eb6-ca4ca001ab15.png "preview markdown")
 
