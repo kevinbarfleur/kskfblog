@@ -14,7 +14,7 @@ Les entraînements se déroulent au foyer culturel de Fond BUDAN à **Baie-Mahau
 
 Vous pouvez venir ASSITER aux cours et aussi participer à un COURS D'ESSAIS._
 
-Vous pouvez nous contacter par{' '} **téléphone** ou par{' '} **mail** :
+Vous pouvez nous contacter par **téléphone** ou par **mail** :
 
 [0690.50.70.28](tel:+590690507028)
 
