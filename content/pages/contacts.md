@@ -12,7 +12,7 @@ Les entraînements se déroulent au foyer culturel de Fond BUDAN à **Baie-Mahau
 
 **Plus de 15 ans** : Mardi et Vendredi : 18H30 - 20H00
 
-Vous pouvez venir ASSITER aux cours et aussi participer à un COURS D'ESSAIS._
+Vous pouvez venir assister aux cours et aussi participer à un cours d'essais.
 
 Vous pouvez nous contacter par **téléphone** ou par **mail** :
 
